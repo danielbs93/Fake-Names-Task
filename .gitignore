@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 venv/
 .idea
+.idea/
 # Distribution / packaging
 .Python
 build/
